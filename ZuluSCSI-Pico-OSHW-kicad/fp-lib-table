@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "ZuluSCSI")(type "KiCad")(uri "${KIPRJMOD}/kicad_libs/zuluscsi-footprints.pretty")(options "")(descr ""))
+  (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "${KIPRJMOD}/kicad_libs/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.pretty")(options "")(descr ""))
+)

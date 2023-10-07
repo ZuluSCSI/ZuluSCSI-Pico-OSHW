@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "zuluscsi-rescue")(type "KiCad")(uri "${KIPRJMOD}/kicad_libs/zuluscsi-rescue.kicad_sym")(options "")(descr ""))
+  (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "${KIPRJMOD}/kicad_libs/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.kicad_sym")(options "")(descr ""))
+  (lib (name "MCP23009-E_MG")(type "Legacy")(uri "${KIPRJMOD}/kicad_libs/MCP23009-E_MG.lib")(options "")(descr ""))
+)
